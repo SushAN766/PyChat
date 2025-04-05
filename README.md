@@ -37,83 +37,6 @@ A real-time chat application built using **Flask**, **Socket.IO**, and **JavaScr
 - A modern web browser
 
 
-
-## 🖥️ Run the App Locally
-
-Follow the steps below to run the chat app on your machine:
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-repo-url>
-cd <your-project-directory>
-```
-
-### 2. Create a Virtual Environment
-
-#### On macOS and Linux:
-
-```bash
-python3 -m venv venv
-```
-
-#### On Windows:
-
-```bash
-python -m venv venv
-```
-
-### 3. Activate the Virtual Environment
-
-#### On macOS and Linux:
-
-```bash
-source venv/bin/activate
-```
-
-#### On Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-### 4. Install the Dependencies
-
-#### On macOS and Linux:
-
-```bash
-pip3 install -r requirements.txt
-```
-
-#### On Windows:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5. Run the App
-
-#### On macOS and Linux:
-
-```bash
-python3 app.py
-```
-
-#### On Windows:
-
-```bash
-python app.py
-```
-
-
-## 🧱 Future Enhancements
-
-- 🔐 Add user login & authentication
-- 🗂 Save chat history to a database (SQLite, MongoDB, etc.)
-- 📦 Dockerize the app for containerized deployment
-- 🌈 Add support for themes (light/dark mode)
-- 🔔 Push notifications for new messages
-
   
 ## 🛠 Installation
 
@@ -152,3 +75,10 @@ python app.py
 
 Open your browser and go to `http://localhost:5000`
 
+## 🧱 Future Enhancements
+
+- 🔐 Add user login & authentication
+- 🗂 Save chat history to a database (SQLite, MongoDB, etc.)
+- 📦 Dockerize the app for containerized deployment
+- 🌈 Add support for themes (light/dark mode)
+- 🔔 Push notifications for new messages

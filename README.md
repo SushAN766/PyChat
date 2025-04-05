@@ -104,3 +104,51 @@ python3 app.py
 ```bash
 python app.py
 ```
+
+
+## 🧱 Future Enhancements
+
+- 🔐 Add user login & authentication
+- 🗂 Save chat history to a database (SQLite, MongoDB, etc.)
+- 📦 Dockerize the app for containerized deployment
+- 🌈 Add support for themes (light/dark mode)
+- 🔔 Push notifications for new messages
+
+  
+## 🛠 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone <your-repo-url>
+cd <your-project-directory>
+```
+
+2. **Set up a virtual environment:**
+
+```bash
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+```
+
+3. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Start the application:**
+
+```bash
+python app.py
+```
+
+5. **Visit the app:**
+
+Open your browser and go to `http://localhost:5000`
+

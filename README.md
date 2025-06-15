@@ -1,20 +1,20 @@
-# 💬 Python Chat App
+#  Python Chat App
 
 A real-time chat application built using **Flask**, **Socket.IO**, and **JavaScript** on the frontend. This project demonstrates how to build a simple, interactive chat system and deploy it for real-world use.
 
 
-## ✅ This Project Includes:
+##  This Project Includes:
 
-- 🚀 A Python virtual environment setup for isolated development  
-- 💬 Real-time messaging powered by **Flask** and **Socket.IO**  
-- ✨ An interactive frontend built with **HTML**, **CSS**, and **JavaScript**  
-- 🧠 Server-side message handling and broadcasting logic  
-- 📦 Organized project structure with separate `static` and `templates` directories  
-- 🌐 Local development server to test chat functionality  
-- ✅ Ready-to-deploy code for platforms like **Render**, **Replit**, or **Heroku**
+-  A Python virtual environment setup for isolated development  
+-  Real-time messaging powered by **Flask** and **Socket.IO**  
+-  An interactive frontend built with **HTML**, **CSS**, and **JavaScript**  
+-  Server-side message handling and broadcasting logic  
+-  Organized project structure with separate `static` and `templates` directories  
+-  Local development server to test chat functionality  
+-  Ready-to-deploy code for platforms like **Render**, **Replit**, or **Heroku**
 
 
-## 🌐 Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **Flask**
@@ -22,15 +22,15 @@ A real-time chat application built using **Flask**, **Socket.IO**, and **JavaScr
 - **JavaScript**
 - **HTML & CSS**
 
-## 🔧 Features
+##  Features
 
-- 🔌 Real-time bi-directional communication using WebSockets
-- 🧑‍🤝‍🧑 Join and chat with multiple users
-- 📲 Responsive web interface
-- 🔄 Automatically scrolls to latest messages
-- 💡 Easy to deploy and extend
+-  Real-time bi-directional communication using WebSockets
+-  Join and chat with multiple users
+-  Responsive web interface
+-  Automatically scrolls to latest messages
+-  Easy to deploy and extend
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.7+
 - pip (Python package installer)
@@ -38,7 +38,7 @@ A real-time chat application built using **Flask**, **Socket.IO**, and **JavaScr
 
 
   
-## 🛠 Installation
+##  Installation
 
 1. **Clone the repository:**
 
@@ -75,10 +75,10 @@ python app.py
 
 Open your browser and go to `http://localhost:5000`
 
-## 🧱 Future Enhancements
+##  Future Enhancements
 
-- 🔐 Add user login & authentication
-- 🗂 Save chat history to a database (SQLite, MongoDB, etc.)
-- 📦 Dockerize the app for containerized deployment
-- 🌈 Add support for themes (light/dark mode)
-- 🔔 Push notifications for new messages
+-  Add user login & authentication
+-  Save chat history to a database (SQLite, MongoDB, etc.)
+-  Dockerize the app for containerized deployment
+-  Add support for themes (light/dark mode)
+-  Push notifications for new messages
